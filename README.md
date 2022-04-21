@@ -1694,7 +1694,7 @@ console.log(await client.withdrawHistory())
         "network": "ETH", 
         "transferType": 0,   // 1 for internal transfer, 0 for external transfer   
         "status": 6,
-        "txId": "0xb5ef8c13b968a406cc62a93a8bd80f9e9a906ef1b3fcf20a2e48573c17659268"
+        "txId": "0x7033620b769bd4685d37b13c7caec11918381c97"
     },
     {
         "address": "1FZdVHtiBqMrWdjPyRPULCUceZPJ2WLCsB",
